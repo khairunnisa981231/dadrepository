@@ -1,0 +1,11 @@
+package lab02.rounding;
+
+/**
+* This class contains method to manage the rounding of values.
+*
+* @author emalianakasmuri
+*/
+
+public class RoundingManager {
+
+}

@@ -5,4 +5,19 @@
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 		</list>
 	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\HONOR\Documents\GitHub\dadrepository\workspace-dadlabs\ParcelManagementServer"/>
+			<item value="C:\Users\HONOR\Desktop\OrderServer"/>
+			<item value="C:\Users\HONOR\Desktop\kitchenapp"/>
+			<item value="C:\Users\HONOR\Desktop\kioskapp-master"/>
+			<item value="C:\Users\HONOR\Documents\GitHub\dadrepository\workspace-dadlabs\TCPDateServerApp"/>
+			<item value="C:\Users\HONOR\Documents\GitHub\dadrepository\workspace-dadlabs\ws-dad-classdemo-main"/>
+			<item value="C:\Users\HONOR\Documents\GitHub\dadrepository\workspace-dadlabs\lab04"/>
+		</list>
+	</section>
 </section>

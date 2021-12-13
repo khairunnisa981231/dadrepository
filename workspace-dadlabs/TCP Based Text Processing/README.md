@@ -4,8 +4,8 @@ This directory contains source codes for Lab 4 Exercise 2
 
 
 Output from client side
-![image](https://github.com/khairunnisa981231/dadrepository/blob/main/workspace-dadlabs/TCP%20Based%20Text%20Processing/images/outputfromclient.PNG)
+##![image](https://github.com/khairunnisa981231/dadrepository/blob/main/workspace-dadlabs/TCP%20Based%20Text%20Processing/images/outputfromclient.PNG)
 
 
 Output from server side
-![image](https://github.com/khairunnisa981231/dadrepository/blob/main/workspace-dadlabs/TCP%20Based%20Text%20Processing/images/outputfromserver.PNG)
+##![image](https://github.com/khairunnisa981231/dadrepository/blob/main/workspace-dadlabs/TCP%20Based%20Text%20Processing/images/outputfromserver.PNG)
